@@ -1,4 +1,4 @@
-// Los elementos html que serán animados tendrán la clase 'animated'
+
 
 let animated = document.querySelectorAll('.move-up-1, .move-up-2, .move-left');
 
